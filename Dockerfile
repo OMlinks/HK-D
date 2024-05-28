@@ -1,4 +1,4 @@
-FROM OMlinks/OMML-X:mdata
+FROM OMlinks/omml-x:mdata
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
