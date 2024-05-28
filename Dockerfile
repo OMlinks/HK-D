@@ -1,4 +1,4 @@
-FROM nanthakps/kpsmlx:heroku
+FROM OMlinks/OMML-X:mdata
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
