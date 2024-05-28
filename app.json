@@ -1,10 +1,10 @@
 {
-    "name": "KPSML-X Bot",
-    "description": "KPSML-X Bot with Heroku Deploy",
+    "name": "HK-D",
+    "description": "HK-D Bot with Heroku Deploy",
     "keywords": [
       "telegram"
     ],
-    "repository": "https://github.com/Tamilupdates/KPSML-X",
+    "repository": "https://github.com/OMlinks/HK-D",
     "stack": "container",
     "env": {
         "CONFIG_FILE_URL": {
